@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Mauro2226 and I'm a Discord.js developer!
-- 🖥️ I love to develop custom discord bot.
+- 👋 Hi, I’m Mauro2226 and I'm a developer!
